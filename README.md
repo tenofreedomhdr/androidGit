@@ -1,0 +1,2 @@
+# androidGit
+Termux testing repository
